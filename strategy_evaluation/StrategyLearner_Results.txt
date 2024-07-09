@@ -1,0 +1,10 @@
+\begin{tabular}{lrr}
+\toprule
+{} &  In Sample &  Out Of Sample \\
+\midrule
+CumRet &   4.624748 &       0.138677 \\
+AvgDR  &   0.004297 &       0.000933 \\
+StdDR  &   0.041930 &       0.036815 \\
+SR     &   1.626666 &       0.402239 \\
+\bottomrule
+\end{tabular}
